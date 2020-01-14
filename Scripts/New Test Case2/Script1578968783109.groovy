@@ -16,3 +16,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
 println('hello git123')
+<<<<<<< HEAD
+=======
+println('hello git')
+println{'sss'}
+>>>>>>> branch 'master' of https://github.com/siak123kah456heng789/testgit.git
