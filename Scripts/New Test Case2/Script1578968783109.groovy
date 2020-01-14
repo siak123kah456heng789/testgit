@@ -17,3 +17,4 @@ import internal.GlobalVariable as GlobalVariable
 
 println('hello git123')
 println('hello git')
+println{'sss'}
